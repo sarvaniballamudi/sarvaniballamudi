@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hey There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Sarvani Ballamudi! (శర్వాణి బళ్ళమూడి)
+Namaste<img src="https://github.com/sarvaniballamudi/sarvaniballamudi/blob/main/namaste.gif" width="50px"> <br> I'm Sarvani Ballamudi! (శర్వాణి బళ్ళమూడి)
 </h1>
 
 <p align="center">
