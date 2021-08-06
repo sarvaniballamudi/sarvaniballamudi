@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Sarvani Ballamudi!
+
+---
+<a href="https://www.instagram.com/sarvaniballamudi"> <img src="https://img.shields.io/badge/Instagram-F10E84?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sarvaniballamudi"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/c/SarvaniBallamudi"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 <!--
 **sarvaniballamudi/sarvaniballamudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
