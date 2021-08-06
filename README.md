@@ -1,5 +1,5 @@
 <h1 align='center'>
-Namaste<img src="https://github.com/sarvaniballamudi/sarvaniballamudi/blob/main/namaste.gif" width="50px"> <br> I'm Sarvani Ballamudi! (శర్వాణి బళ్ళమూడి)
+Namaste<img src="https://github.com/sarvaniballamudi/sarvaniballamudi/blob/main/namaste.gif" width="50px"> <br> I'm Sarvani Ballamudi! (Telugu: శర్వాణి బళ్ళమూడి)
 </h1>
 
 <p align="center">
