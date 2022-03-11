@@ -9,7 +9,7 @@ Professional experience with technologies listed in the **Toolbox** below.
 I'm currently improving my problem solving skills using DSA and working on few personal web development projects.
 
 I'm a singer and a gold medalist too.
-I managed to create online an online presence of singing by uploading regularly on my socials with over 14,000 followers **and** also teach Telugu Ukulele Tutorials on Youtube.
+I managed to create online an online presence of singing by uploading regularly on my socials with over **14,000** followers **and** also teach Telugu Ukulele Tutorials on Youtube.
 
 ---
 Toolbox
