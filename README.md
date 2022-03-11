@@ -25,3 +25,11 @@ Toolbox
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvaniballamudi&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sarvani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvaniballamudi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
