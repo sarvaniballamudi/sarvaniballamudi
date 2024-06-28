@@ -1,5 +1,5 @@
-<h1 align="center">నమస్కారం🙏, I'm Sarvani Ballamudi</h1>
-<h2 align="center">Backend Developer, Singer and a constant learner :)</h2>
+a<h1 align="center">నమస్కారం🙏, I'm Sarvani Ballamudi</h1>
+<h2 align="center">Fullstack e-commerce developer, singer and a constant learner :)</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sarvaniballamudi/" target="blank">
@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/-Subscribe%20to%20YouTube-red?style=flat-round&logo=YouTube&logoColor=white" alt="YouTube"> </a>
 </p>
 
-- 👩‍💻 I’m currently working on **[Mana Ruchulu - Recipes Webapp](https://github.com/sarvaniballamudi/recipe-webapp)**
+- 👩‍💻 I’m currently working on **[Bingoals - Your productivity partner](https://bingoals.vercel.app/)**
 
-- 🌱 I’m currently learning React and 3D models
+- 🌱 I’m currently learning design patterns and 3D modelling
 
 - 💬 Talk to me about **e-Commerce, JavaScript and Music.**
 
