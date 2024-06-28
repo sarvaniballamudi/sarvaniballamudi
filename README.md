@@ -1,4 +1,4 @@
-a<h1 align="center">నమస్కారం🙏, I'm Sarvani Ballamudi</h1>
+<h1 align="center">నమస్కారం🙏, I'm Sarvani Ballamudi</h1>
 <h2 align="center">Fullstack e-commerce developer, singer and a constant learner :)</h2>
 
 <p align="center">
